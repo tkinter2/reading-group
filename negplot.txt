@@ -1,0 +1,4 @@
+[Command: cmd '/c C:\Users\Timmis\.atom\packages\script\node_modules\.bin\coffee -p C:\Users\Timmis\.atom\init.coffee|C:\Users\Timmis\.atom\packages\script\node_modules\.bin\babel --filename C:\Users\Timmis\.atom\packages\script\node_modules\.bin| node']
+'node"' is not recognized as an internal or external command,
+operable program or batch file.
+[Finished in 0.055s]
